@@ -1,0 +1,11 @@
+body{
+    background: url("./img/galaxy.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: center;
+    font-family: Arial ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+}
